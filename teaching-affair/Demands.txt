@@ -9,3 +9,4 @@ Version 2
 
 code improvement
 * make enddate available in arrange page
+* impove code quality
