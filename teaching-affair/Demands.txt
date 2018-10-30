@@ -12,3 +12,15 @@ code improvement
 * impove code quality
 * debug
 * vue component usage
+
+
+
+完成：
+1, 2
+
+app/Config/core.php	
+
+app/View/Themed/Officer/Elements/sidebar.php	
+
+app/View/Elements/addDocumentChecklist.ctp
+
