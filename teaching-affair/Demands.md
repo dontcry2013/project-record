@@ -17,6 +17,8 @@ code improvement
 
 完成：
 1, 2
+3，过滤老师
+thinking about use vue component to generate a reusable code in cohort and classroom part
 
 app/Config/core.php	
 
